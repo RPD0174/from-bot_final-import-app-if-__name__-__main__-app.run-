@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-PHONE_ID = "PEGAR_AQUI_TU_PHONE_ID"
+PHONE_ID = "Phone Number ID y Access Token"
 TOKEN = "PEGAR_AQUI_TU_TOKEN"
 VERIFY_TOKEN = "scania123"
 
